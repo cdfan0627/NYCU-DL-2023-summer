@@ -1,19 +1,19 @@
 # NYCU-DL-2023-summer
 
-# LAB1
+## LAB1
 Backpropagation
 
-# LAB2
+## LAB2
 EEG Classification
 
-# LAB3
+## LAB3
 Leukemia Classification
 
-# LAB4
+## LAB4
 Conditional VAE for Video Prediction
 
-# LAB5
+## LAB5
 Deep Q-Network and Deep Deterministic Policy Gradient
 
-# LAB6
+## LAB6
 Let's play DDPM
