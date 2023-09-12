@@ -1,5 +1,5 @@
 # NYCU-DL-2023-summer
-
+HWs of Deep Learning Summer 2023 NYCU
 ## LAB1
 Backpropagation
 
